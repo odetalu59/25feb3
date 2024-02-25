@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://mattobrien.dev/superjp.html/sitemap.xml
+Sitemap: https://mattobrien.dev/gilajp.html/sitemap.xml
+Sitemap: https://mattobrien.dev/gojekpot.html/sitemap.xml
+Sitemap: https://mattobrien.dev/winstrike69.html/sitemap.xml
+Sitemap: https://mattobrien.dev/jagoan86.html/sitemap.xml
+Sitemap: https://mattobrien.dev/kaptenjackpot.html/sitemap.xml
+Sitemap: https://mattobrien.dev/boosterjp.html/sitemap.xml
+Sitemap: https://mattobrien.dev/kerajaanslot.html/sitemap.xml
+Sitemap: https://mattobrien.dev/pakong86.html/sitemap.xml
+Sitemap: https://mattobrien.dev/viral88.html/sitemap.xml
+Sitemap: https://mattobrien.dev/clan4d.html/sitemap.xml
+Sitemap: https://mattobrien.dev/dinamit4d.html/sitemap.xml
+Sitemap: https://mattobrien.dev/elang212.html/sitemap.xml
+Sitemap: https://mattobrien.dev/gori77.html/sitemap.xml
+Sitemap: https://mattobrien.dev/viral4d.html/sitemap.xml
+Sitemap: https://mattobrien.dev/playground88.html/sitemap.xml
